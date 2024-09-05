@@ -8953,6 +8953,8 @@ export interface components {
             error?: string | null;
             /** Success */
             success: boolean;
+            /** Uri */
+            uri?: string | null;
         };
         /**
          * ExportObjectType
