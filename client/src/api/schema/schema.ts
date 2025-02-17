@@ -9262,7 +9262,8 @@ export interface components {
                 | "dropbox"
                 | "googledrive"
                 | "elabftw"
-                | "inveniordm";
+                | "inveniordm"
+                | "zenodo";
             /** Variables */
             variables?:
                 | (
@@ -17649,7 +17650,8 @@ export interface components {
                 | "dropbox"
                 | "googledrive"
                 | "elabftw"
-                | "inveniordm";
+                | "inveniordm"
+                | "zenodo";
             /** Uri Root */
             uri_root: string;
             /**
